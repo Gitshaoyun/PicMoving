@@ -1,0 +1,1 @@
+用JavaScript写的图片轮播效果
