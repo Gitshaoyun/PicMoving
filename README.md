@@ -1,1 +1,1 @@
-用JavaScript写的图片轮播效果
+鐢↗avaScript鍐欑殑鍥剧墖杞挱鏁堟灉
